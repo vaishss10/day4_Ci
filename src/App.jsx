@@ -11,7 +11,7 @@ function App() {
     <div className="app">
       <header>
         <h1>🏎️ F1 Racing</h1>
-        <p>Formula 1 Driver Dashboard</p>
+        <p>Formula 1 Driver </p>
       </header>
 
       <section className="hero">
